@@ -6,7 +6,7 @@ A défaut d'option dans le délai imparti, le remplacement est assuré par le ca
 
 Le mandat de la personne ayant remplacé le représentant dont le siège était devenu vacant expire à la date où le titulaire initial aurait été lui-même soumis à renouvellement.
 
-En cas de décès ou de démission d'un représentant l'ayant remplacé, tout représentant ayant accepté les fonctions ou la prolongation de missions mentionnées aux articles LO 176 et LO 319 du code électoral et autres que des fonctions gouvernementales peut, lorsque ces fonctions ou missions ont cessé, reprendre l'exercice de son mandat. Il dispose pour user de cette faculté d'un délai d'un mois.
+En cas de décès ou de démission d'un représentant l'ayant remplacé, tout représentant ayant accepté les fonctions de membre du Conseil constitutionnel ou de Défenseur des droits ou la prolongation au-delà de six mois d'une mission temporaire confiée par le Gouvernement peut, lorsque ces fonctions ou cette mission ont cessé, reprendre l'exercice de son mandat. Il dispose pour user de cette faculté d'un délai d'un mois.
 
 En cas d'acceptation par un représentant de fonctions gouvernementales, son remplacement est effectué, conformément au premier alinéa, jusqu'à l'expiration d'un délai d'un mois suivant la cessation de ces fonctions.A l'expiration du délai d'un mois, le représentant reprend l'exercice de son mandat. Le caractère temporaire du remplacement pour cause d'acceptation de fonctions gouvernementales s'applique au dernier candidat devenu représentant conformément à l'ordre de la liste. Celui-ci est replacé en tête des candidats non élus de cette liste.
 
