@@ -1,1 +1,37 @@
-.gitbook-link, .divider {display:none!important}.diff .diff-delete {color:#a33;text-decoration:line-through;background:#ffeaea}.diff .diff-insert {background:#eaffea;}.diff {border:1px solid rgba(0,0,0,.15);margin-bottom:20px;border-radius:3px}.diff .diff-content {padding:10px;background:#fcfcfc}.diff .diff-filename {background:#f6f6f6;padding:10px;border-bottom:1px solid rgba(0,0,0,.15)}.diff .diff-filename:before {font:normal normal normal 14px/1 FontAwesome;content:"\f0f6";padding-right:10px}
+.divider,
+.gitbook-link {
+  display : none!important;
+}
+
+.diff .diff-delete {
+  color           : #a33;
+  background      : #ffeaea;
+  text-decoration : line-through;
+}
+
+.diff .diff-insert {
+  background : #eaffea;
+}
+
+.diff {
+  margin-bottom : 20px;
+  border        : 1px solid rgba(0,0,0,.15);
+  border-radius : 3px;
+}
+
+.diff .diff-content {
+  padding    : 10px;
+  background : #fcfcfc;
+}
+
+.diff .diff-filename {
+  padding       : 10px;
+  border-bottom : 1px solid rgba(0,0,0,.15);
+  background    : #f6f6f6;
+}
+
+.diff .diff-filename:before {
+  content       : "\f0f6";
+  padding-right : 10px;
+  font          : normal normal normal 14px/1 FontAwesome;
+}
