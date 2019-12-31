@@ -7,5 +7,3 @@ II.-Toutefois, par dérogation à l'article 15 de la même loi organique :
 2° Le dernier alinéa du même article 15 n'est pas applicable.
 
 III.-Par dérogation aux dispositions de l'article L. 55 du code électoral, le scrutin est organisé le samedi dans les ambassades et les postes consulaires situés sur le continent américain.
-
-IV.-Tout électeur inscrit sur une liste électorale consulaire et sur une liste électorale en France choisit d'exercer son droit de vote en France ou à l'étranger dans les conditions prévues par l'article 8 de la loi organique n° 76-97 du 31 janvier 1976 précitée.
